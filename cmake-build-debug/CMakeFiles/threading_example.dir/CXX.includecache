@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/uberslam/CLionProjects/threading_example/LockGuard.h
+
+/home/uberslam/CLionProjects/threading_example/main.cpp
+iostream
+-
+thread
+-
+mutex
+-
+LockGuard.h
+/home/uberslam/CLionProjects/threading_example/LockGuard.h
+

@@ -1,0 +1,3 @@
+/home/uberslam/CLionProjects/threading_example/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/uberslam/CLionProjects/threading_example/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/uberslam/CLionProjects/threading_example/cmake-build-debug/CMakeFiles/threading_example.dir
